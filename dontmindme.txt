@@ -1,0 +1,21 @@
+Trying to get the muscle memory in
+
+git clone link
+touch filename
+code .
+edit filename
+save
+git add filename
+git commit -m "brief des"
+git status
+git push origin master
+
+
+git clone link
+touch filename
+code .
+edit file and save 
+git add file 
+git commit -m "des"
+git status 
+git push origin master
